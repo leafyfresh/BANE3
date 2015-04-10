@@ -1,0 +1,15 @@
+{
+  "name": "BANE3",
+  "version": "0.0.0",
+  "description": "BANE3",
+  "main": "app.js",
+  "author": {
+    "name": "nathan.noonan",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
